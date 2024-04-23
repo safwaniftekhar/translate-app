@@ -66,7 +66,7 @@ const Translate: React.FC = () => {
           </select>
         </div>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2">
+      <div className="grid grid-cols-1 md:grid-cols-2 md:ml-20 md:mr-20">
         <textarea
           className="m-4 p-4 shadow-lg shadow-gray-500/50 border-solid text-xl rounded-lg h-60"
           rows={2}
